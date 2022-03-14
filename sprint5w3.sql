@@ -1,4 +1,4 @@
-git--1. List the unique Agency Name in descending order?
+--1. List the unique Agency Name in descending order?
 select DISTINCT(agency)
 from HR_DEPARTMENT
 order by  agency desc;
